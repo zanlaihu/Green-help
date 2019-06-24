@@ -6,6 +6,8 @@ Dataset management
 2."star10.csv" is the new created csv file after pandas operations. 
 
 
+
+
 数据操作管理
 1. "ausnut1.csv" 是原始csv文件。
 
